@@ -30,5 +30,8 @@ var a = 'className';//classname for the overlay wrapper<br>var b = 0;// min opac
 
 $('.someClass').descriptionOverlay(a, b, c);</pre>
 
+respnsive demo:<br>
+<a href="http://nkmensur.github.io/">nkmensur.github.io</a>
 
 #and now go and use it!! :D
+
